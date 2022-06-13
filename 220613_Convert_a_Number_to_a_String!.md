@@ -19,8 +19,8 @@ What ways of achieving this do you know?</p>
 ### 나의 시도
 
 > why?  
-> 함수 안으로 들어오는 것이 숫자인지 판별하기 위해 `isNaN()`함수를 사용하였고, 들어오는 인자 `num`를 `toString()`함수를 통해 문자열로 변환시켜주었다.  
-> 처음에 `return`을 안하고 `console.log()`문을 찍어서 게속 오류가 났다.
+> 함수 안으로 들어오는 것이 숫자인지 판별하기 위해 `isNaN()`함수를 사용하였고, 인자 `num`을 `toString()`함수를 통해 문자열로 변환시켜주었다.  
+> 처음에 `return`을 안하고 `console.log()`문을 계속 찍어서 오류가 났다.
 
 ```js
 function numberToString(num) {
