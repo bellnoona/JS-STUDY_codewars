@@ -20,21 +20,7 @@ codewars 사이트에서 푼 JavaScript 문제를 올리는 레파지토리 입�
 
 ### 8 kyu
 
-- [Sentence Smash](https://github.com/GitHWS/code-wars-solution/blob/main/Sentence_Smash.md)
-- [Grasshopper Summation](https://github.com/GitHWS/code-wars-solution/blob/main/Grasshopper_Summation.md)
-- [Remove First and Last Character](https://github.com/GitHWS/code-wars-solution/blob/main/Remove_First_and_Last_Character.md)
-- [Square(n) Sum](https://github.com/GitHWS/code-wars-solution/blob/main/Square(n)_Sum.md)
-- [Opposite number](https://github.com/GitHWS/code-wars-solution/blob/main/Opposite_number.md)
-- [Convert a string to array](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_string_to_array.md)
-- [Will you make it](https://github.com/GitHWS/code-wars-solution/blob/main/Will_you_make_it.md)
-- [Reversed sequence](https://github.com/GitHWS/code-wars-solution/blob/main/Reversed_sequence.md)
-- [Convert a Number to a String](https://github.com/GitHWS/code-wars-solution/blob/main/Convert_a_Number_to_a_String.md)
-- [Return Negative](https://github.com/GitHWS/code-wars-solution/blob/main/Return_Negative.md)
+- [Convert a Number to a String!](https://github.com/bellnoona/JS-STUDY_codewars/blob/main/220613_Convert_a_Number_to_a_String!.md)
 
 ### 7 kyu
-
-- [Friend_or_Foe?](https://github.com/GitHWS/code-wars-solution/blob/main/Friend_or_Foe%3F.md)
-- [Mumbling](https://github.com/GitHWS/code-wars-solution/blob/main/Mumbling.md) ❌
-- [Ones and Zeros](https://github.com/GitHWS/code-wars-solution/blob/main/Ones_and_Zeros.md)
-- [List Filtering](https://github.com/GitHWS/code-wars-solution/blob/main/List_Filtering.md)
 
